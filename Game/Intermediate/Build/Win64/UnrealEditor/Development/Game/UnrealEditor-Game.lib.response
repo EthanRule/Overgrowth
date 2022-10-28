@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-Game.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\GameEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\Game.cpp.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\GameCharacter.cpp.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\GameGameMode.cpp.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\GameCharacter.gen.cpp.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\GameGameMode.gen.cpp.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\Game.init.gen.cpp.obj"
+"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\Default.rc2.res"
+/OUT:"Z:\GIT\Overgrowth\Game\Intermediate\Build\Win64\UnrealEditor\Development\Game\UnrealEditor-Game.lib"

@@ -1,0 +1,19 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\gamegamemode.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\gameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\unrealeditor\\development\\game\\definitions.game.h",
+            "z:\\git\\overgrowth\\game\\source\\game\\gamegamemode.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\gameframework\\gamemodebase.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\source\\runtime\\engine\\classes\\engine\\serverstatreplicator.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\serverstatreplicator.generated.h",
+            "c:\\program files\\epic games\\ue_5.0\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\gamemodebase.generated.h",
+            "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\gamegamemode.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

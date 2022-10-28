@@ -1,0 +1,13 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\unrealeditor\\inc\\game\\game.init.gen.cpp",
+        "ProvidedModule": "",
+        "PCH": "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\gameeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "z:\\git\\overgrowth\\game\\intermediate\\build\\win64\\unrealeditor\\development\\game\\definitions.game.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

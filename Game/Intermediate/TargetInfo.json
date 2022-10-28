@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "Game",
+			"Path": "Z:\\GIT\\Overgrowth\\Game\\Source\\Game.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GameEditor",
+			"Path": "Z:\\GIT\\Overgrowth\\Game\\Source\\GameEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
